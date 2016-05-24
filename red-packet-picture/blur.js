@@ -9,7 +9,7 @@ var image=new Image()
 var radius=50
 var clippingRegion={x:-1,y:-1,r:radius}
 var leftMargin=0,topMargin=0
-image.src="wpp.jpg"
+image.src="img0.jpg"
 
 image.onload=function(e){
 	$("#blur-image").css("width",image.width+"px")
