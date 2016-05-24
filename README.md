@@ -1,5 +1,7 @@
 ###red-packet-photo
 
+[ ![Download](https://codeload.github.com/artcat/red-packet-photo/zip/master) ]
+
 red-packet-photo is imitation WeChat fuzzy picture , pay money to see.
 
 red-packet-photo是仿微信模糊的图片，付费后才能看。
